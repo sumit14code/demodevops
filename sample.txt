@@ -1,1 +1,3 @@
 this is to test the commit
+
+added new user name and email to git
